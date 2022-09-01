@@ -1,0 +1,33 @@
+https://url-decode.com/cat (js code min, readable=y)
+npm install jsoneditor (https://jsrepos.com/lib/josdejong-jsoneditor-javascript-editors)
+https://jsoneditoronline.org/ (js codeObf=map)
+
+https://codebeautify.org/jsviewer (nice) (obf)
+https://jsonformatter.org/405ecb (nice)
+    https://github.com/josdejong/jsoneditor
+
+https://iplocation.io/case-converter (a lot of tools)
+https://url-decode.com/tool/string-to-binary (a lot of tools)
+
+https://titlecaseconverter.com/ 
+https://convertcase.net/
+https://www.contentrow.com/tools/case-converter (simple)
+https://www.unitconverters.net/case-converter.html
+https://passwordsgenerator.net/Case-Convert/
+https://www.prepostseo.com/tool/case-converter
+https://smallseotools.com/uppercase-to-lowercase/
+https://www.caseconverter.com/ (simple)
+
+https://cutekaomoji.com/text-generators/bold-italic-slanted/
+
+
+
+Chrome Extension Boilerplate Generator
+https://github.com/altryne/extensionizr
+https://extensionizr.com/!#{%22modules%22:[%22hidden-mode%22,%22with-bg%22,%22with-persistent-bg%22,%22no-options%22,%22no-override%22],%22boolean_perms%22:[],%22match_ptrns%22:[]}
+
+forked from:
+
+https://github.com/verekia/initializr-website
+http://www.initializr.com/
+https://json-xls.com/convert/json
